@@ -1,0 +1,8 @@
+*.pyc
+.DS_Store
+.idea
+output
+*~
+*.out
+*.egg-info
+*.ipynb_checkpoints
